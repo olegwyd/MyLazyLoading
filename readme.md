@@ -2,4 +2,4 @@
 
 <p>A simple project where I used Lazy Loading technology.</p>
 
-<a></a>
+<a>https://olegwyd.github.io/MyLazyLoading/</a>
